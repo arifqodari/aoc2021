@@ -9,3 +9,7 @@
 ## Day 2
 
 [Spreadsheet Link](https://docs.google.com/spreadsheets/d/1_n3rawf2udb9ns_BLXgKXOkyqLzA_vj76PZL06byYGk/edit?usp=sharing)
+
+
+## Day 3
+[Spreadsheet Link](https://docs.google.com/spreadsheets/d/17tInDTdQo222huNx7Jqo40K94ZBu5V_8ky0GGdxrXSc/edit?usp=sharing)
