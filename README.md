@@ -13,3 +13,7 @@
 
 ## Day 3
 [Spreadsheet Link](https://docs.google.com/spreadsheets/d/17tInDTdQo222huNx7Jqo40K94ZBu5V_8ky0GGdxrXSc/edit?usp=sharing)
+
+
+## Day 4
+[Colab Link](https://colab.research.google.com/drive/1_1kzGpcgUWCVzT9vMiO7GvNTUZf1T_Wq?usp=sharing)
