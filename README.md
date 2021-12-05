@@ -16,4 +16,9 @@
 
 
 ## Day 4
-[Colab Link](https://colab.research.google.com/drive/1_1kzGpcgUWCVzT9vMiO7GvNTUZf1T_Wq?usp=sharing)
+Numpy Array Version: [Colab Link](https://colab.research.google.com/drive/1_1kzGpcgUWCVzT9vMiO7GvNTUZf1T_Wq?usp=sharing)
+
+
+## Day 5
+
+Pandas Version: [Colab Link](https://colab.research.google.com/drive/1iMjTGwTIJKDnDrprjKXXHxyrZvD7lfmx?usp=sharing)
