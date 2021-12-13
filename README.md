@@ -22,3 +22,7 @@ Numpy Array Version: [Colab Link](https://colab.research.google.com/drive/1_1kzG
 ## Day 5
 
 Pandas Version: [Colab Link](https://colab.research.google.com/drive/1iMjTGwTIJKDnDrprjKXXHxyrZvD7lfmx?usp=sharing)
+
+## Day 6
+
+[Colab Link](https://colab.research.google.com/drive/1IEe4JTb_toCPu2qcJ22FPa0uCwlYKDjT?usp=sharing)
