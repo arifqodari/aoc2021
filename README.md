@@ -26,3 +26,7 @@ Pandas Version: [Colab Link](https://colab.research.google.com/drive/1iMjTGwTIJK
 ## Day 6
 
 [Colab Link](https://colab.research.google.com/drive/1IEe4JTb_toCPu2qcJ22FPa0uCwlYKDjT?usp=sharing)
+
+## Day 7
+
+[Colab Link](https://colab.research.google.com/drive/1unwWQXuRLKkz-1CIxivcqPSZkaEpcbQa?usp=sharing)
