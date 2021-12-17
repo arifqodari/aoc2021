@@ -34,3 +34,7 @@ Pandas Version: [Colab Link](https://colab.research.google.com/drive/1iMjTGwTIJK
 ## Day 8
 
 [Colab Link](https://colab.research.google.com/drive/1R2v5cUxfS71CocHl_s9t2xCyKesT-9FS?usp=sharing)
+
+## Day 9
+
+[Colab Link](https://colab.research.google.com/drive/1vLCpmahl93hDNBRKjvpCuRPyFhwo0PKu?usp=sharing)
